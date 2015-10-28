@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:maroon;
+}
+
+#text{
+    
+}
+#list{
+
+    
+}
+}
+#text:focus + #list{
+
+    display:block;
+    margin:0;
+    padding:0;
+    background-color:white;
+}

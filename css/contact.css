@@ -1,0 +1,45 @@
+
+
+
+html , body{
+    background-image:url(http://i.imgur.com/fNual4R.jpg);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(122,22,1);
+    height: 6.5%;
+}
+ul{
+    margin: 0;
+}
+ul > li{
+    padding-top: 0;
+    padding-left: 0.625em;
+    padding-right: 0.625em;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color: gold;
+}
+#contact{
+  color: gold;  
+}
+#signup{
+    padding: 1em;
+    background-color:gold;
+    color: maroon;
+}
